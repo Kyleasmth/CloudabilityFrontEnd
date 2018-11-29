@@ -4,6 +4,7 @@
  2. Push up any work to the fork you created and make sure that when you're ready to share your work that we'll be able to access it.
 
 **The task**
+
 Please write, in any language you choose, a small application that retrieves data from the world bank API.
 
 You'll be combining multiple data sets to create a CSV file.
